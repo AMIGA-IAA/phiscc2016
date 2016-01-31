@@ -1,0 +1,92 @@
+    <html> 
+        <head> 
+            <title>PHISCC - 2016</title> 			
+            <script type='text/javascript' src='x3dom/x3dom.js'> </script> 
+            <link rel='stylesheet' type='text/css' href='x3dom/x3dom.css'></link> 
+	    <style>
+	      x3d
+	      {
+              border:2px solid darkorange;
+	      }   
+	    </style>
+
+        </head> 
+        <body> 
+	    
+<div style="width: 1000px;">
+<h1 style="text-align: center;">HCG91</h1>
+
+<table align="center">
+	<tr>
+	<td>
+	
+	<x3d id="HCG91Fixed" width='400px' height='300px'> 
+			  <scene> 
+			   <OrthoViewpoint id="front" bind='false' centerOfRotation='0,0,7157.5' description='RA-Dec view' fieldOfView='[-400,-400,400,400]' isActive='false' metadata='X3DMetadataObject' orientation='0,1,0,3.14' position='0,0,6000' zFar='10000' zNear='0.1' ></OrthoViewpoint>
+			    <OrthoViewpoint id="side" bind='false' centerOfRotation='0,0,7157.5' description='V - Dec view' fieldOfView='[-400,-400,400,400]' isActive='false' metadata='X3DMetadataObject' orientation='0,-1,0,1.57' position='-700,0,7157.5' zFar='10000' zNear='0.1' ></OrthoViewpoint> 
+			    <OrthoViewpoint id="side2" bind='false' centerOfRotation='0,0,7157.5' description='V - RA view' fieldOfView='[-400,-400,400,400]' isActive='false' metadata='X3DMetadataObject' orientation='1,1,1,4.1888' position='0,700,7157.5' zFar='10000' zNear='0.1' ></OrthoViewpoint> 
+	           <Viewpoint id="perspective" bind='false' fieldOfView='0.523599' position='-1614,1553,6054' description='Perspective View' orientation='0.92,0.27,-0.29,4.10' centerOfRotation='0,0,7157'></Viewpoint>
+	
+	<Viewpoint id="sse" bind='false' position="-138.28247 59.37472 9022.40825" orientation="-0.21444 -0.51648 -0.82902 0.12115" zNear="905.66362" zFar="3173.74301" description="Perspective View"></Viewpoint>
+	
+			    <inline url="./data/HCG91_mod.x3d" nameSpaceName="hcg91" mapDEFToID="true" onclick=''/>
+			  </scene> 
+			</x3d>
+
+	</td>
+	<td>
+	
+	<img src="./images/flecha.png"  alt="" >
+	<br>
+	Increasing HI
+	
+	</td>
+	<td>
+	
+	<x3d id="HCG91Fixed" width='400px' height='300px'> 
+			  <scene> 
+			   <OrthoViewpoint id="front" bind='false' centerOfRotation='0,0,7157.5' description='RA-Dec view' fieldOfView='[-400,-400,400,400]' isActive='false' metadata='X3DMetadataObject' orientation='0,1,0,3.14' position='0,0,6000' zFar='10000' zNear='0.1' ></OrthoViewpoint>
+			    <OrthoViewpoint id="side" bind='false' centerOfRotation='0,0,7157.5' description='V - Dec view' fieldOfView='[-400,-400,400,400]' isActive='false' metadata='X3DMetadataObject' orientation='0,-1,0,1.57' position='-700,0,7157.5' zFar='10000' zNear='0.1' ></OrthoViewpoint> 
+			    <OrthoViewpoint id="side2" bind='false' centerOfRotation='0,0,7157.5' description='V - RA view' fieldOfView='[-400,-400,400,400]' isActive='false' metadata='X3DMetadataObject' orientation='1,1,1,4.1888' position='0,700,7157.5' zFar='10000' zNear='0.1' ></OrthoViewpoint> 
+	           <Viewpoint id="perspective" bind='false' fieldOfView='0.523599' position='-1614,1553,6054' description='Perspective View' orientation='0.92,0.27,-0.29,4.10' centerOfRotation='0,0,7157'></Viewpoint>
+	
+	<Viewpoint id="sse" bind='false' position="-138.28247 59.37472 9022.40825" orientation="-0.21444 -0.51648 -0.82902 0.12115" zNear="905.66362" zFar="3173.74301" description="Perspective View"></Viewpoint>
+	
+			    <inline url="./data/HCG91_mod.x3d" nameSpaceName="hcg91" mapDEFToID="true" onclick=''/>
+			  </scene> 
+			</x3d>
+
+	</td>
+	<td>
+	
+	<img src="./images/flecha.png"  width='20px' height='3px' alt="" >
+	<br>
+	HI in Tails
+	
+	</td>
+	<td>
+	
+	<x3d id="HCG91Fixed" width='400px' height='300px'> 
+			  <scene> 
+			   <OrthoViewpoint id="front" bind='false' centerOfRotation='0,0,7157.5' description='RA-Dec view' fieldOfView='[-400,-400,400,400]' isActive='false' metadata='X3DMetadataObject' orientation='0,1,0,3.14' position='0,0,6000' zFar='10000' zNear='0.1' ></OrthoViewpoint>
+			    <OrthoViewpoint id="side" bind='false' centerOfRotation='0,0,7157.5' description='V - Dec view' fieldOfView='[-400,-400,400,400]' isActive='false' metadata='X3DMetadataObject' orientation='0,-1,0,1.57' position='-700,0,7157.5' zFar='10000' zNear='0.1' ></OrthoViewpoint> 
+			    <OrthoViewpoint id="side2" bind='false' centerOfRotation='0,0,7157.5' description='V - RA view' fieldOfView='[-400,-400,400,400]' isActive='false' metadata='X3DMetadataObject' orientation='1,1,1,4.1888' position='0,700,7157.5' zFar='10000' zNear='0.1' ></OrthoViewpoint> 
+	           <Viewpoint id="perspective" bind='false' fieldOfView='0.523599' position='-1614,1553,6054' description='Perspective View' orientation='0.92,0.27,-0.29,4.10' centerOfRotation='0,0,7157'></Viewpoint>
+	
+	<Viewpoint id="sse" bind='false' position="-138.28247 59.37472 9022.40825" orientation="-0.21444 -0.51648 -0.82902 0.12115" zNear="905.66362" zFar="3173.74301" description="Perspective View"></Viewpoint>
+	
+			    <inline url="./data/HCG91_mod.x3d" nameSpaceName="hcg91" mapDEFToID="true" onclick=''/>
+			  </scene> 
+			</x3d>
+
+	</td>
+</tr>
+</table>
+
+</div>
+		 
+ 
+
+
+	</body> 
+    </html>
